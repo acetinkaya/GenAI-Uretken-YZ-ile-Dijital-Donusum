@@ -4,10 +4,8 @@
 
 ## Yazarlar / Authors
 
-- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
+- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
 
-- [**Ercan AYKUT**](https://scholar.google.com/citations?hl=tr&user=RgLwcksAAAAJ)
+- [**Ercan AYKUT**](https://scholar.google.com/citations?hl=tr&user=RgLwcksAAAAJ)    
   İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Elektrik - Elektronik Mühendisliği Bölümü, 34310, İstanbul, Türkiye
-
-  
