@@ -8,6 +8,6 @@
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
 
 - [**Ercan AYKUT**](https://scholar.google.com/citations?hl=tr&user=RgLwcksAAAAJ)
-  İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Elektrik -
+  İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Elektrik - Elektronik Mühendisliği Bölümü, 
 
   
