@@ -15,3 +15,7 @@
 ---
 
 ![AlternatifMetin](https://github.com/acetinkaya/GenAI-Uretken-YZ-ile-Dijital-Donusum/blob/main/Kitap.png)
+
+---
+
+Yayın Linkleri - Erişim Adresleri:
