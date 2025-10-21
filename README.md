@@ -2,4 +2,4 @@
 
 ÜRETKEN YAPAY ZEKA İLE DİJİTAL DÖNÜŞÜM: GELECEĞİN KARİYER ALANLARI
 
-## Authors
+## Yazarlar / Authors
