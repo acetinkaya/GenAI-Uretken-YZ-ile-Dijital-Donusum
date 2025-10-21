@@ -3,3 +3,5 @@
 ÜRETKEN YAPAY ZEKA İLE DİJİTAL DÖNÜŞÜM: GELECEĞİN KARİYER ALANLARI
 
 ## Yazarlar / Authors
+
+- [**Ali Çetinkaya**]
