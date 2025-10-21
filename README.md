@@ -13,3 +13,5 @@
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
 ---
+
+![AlternatifMetin](https://github.com/acetinkaya/GenAI-Uretken-YZ-ile-Dijital-Donusum/blob/main/Kitap.png)
