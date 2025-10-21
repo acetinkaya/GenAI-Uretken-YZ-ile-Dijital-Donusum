@@ -19,3 +19,5 @@
 ---
 
 Yayın Linkleri - Erişim Adresleri:
+
+[Kitap İnternet Sayfası](https://www.bidgeyayinlari.com.tr/yayinlar-2/)
