@@ -22,7 +22,7 @@ Kitap Yayın Linkleri & Erişim Adresi:
 
 Kitap İsmi: YENİ NESİL YAPAY ZEKÂ YAKLAŞIMLARI: YAZILIM, KARİYER VE SİNİRSEL MİMARİLER ÜZERİNE
 
-Kitap İçindeki Bölüm No & İsmi: Bölüm 2. 
+Kitap İçindeki Bölüm No & İsmi: Bölüm 2. ÜRETKEN YAPAY ZEKA İLE
 
 ISBN No: 978-625-372-677-5   
 
