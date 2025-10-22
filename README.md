@@ -32,4 +32,5 @@ Yayınevi: BİDGE Yayınları
 
 [Kitap İnternet Sayfası](https://www.bidgeyayinlari.com.tr/yayinlar-2/)
 
+![AlternatifMetin](https://github.com/acetinkaya/GenAI-Uretken-YZ-ile-Dijital-Donusum/blob/main/bolum.png)
 
