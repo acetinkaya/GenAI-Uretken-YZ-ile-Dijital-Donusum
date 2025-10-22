@@ -20,6 +20,6 @@
 
 Kitap Yayın Linkleri & Erişim Adresi:
 
-Book Title 
+Book Title / Kitap İsmi: 
 
 [Kitap İnternet Sayfası](https://www.bidgeyayinlari.com.tr/yayinlar-2/)
