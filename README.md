@@ -18,6 +18,6 @@
 
 ---
 
-Yayın Linkleri - Erişim Adresleri:
+Kitap Yayın Linkleri & Erişim Adresi:
 
 [Kitap İnternet Sayfası](https://www.bidgeyayinlari.com.tr/yayinlar-2/)
