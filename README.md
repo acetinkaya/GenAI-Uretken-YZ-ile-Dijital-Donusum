@@ -22,6 +22,8 @@ Kitap Yayın Linkleri & Erişim Adresi:
 
 Kitap İsmi: YENİ NESİL YAPAY ZEKÂ YAKLAŞIMLARI: YAZILIM, KARİYER VE SİNİRSEL MİMARİLER ÜZERİNE
 
+Kitap 
+
 ISBN No: 978-625-372-677-5   
 
 Basım Yılı: 2025
@@ -29,3 +31,5 @@ Basım Yılı: 2025
 Yayınevi: BİDGE Yayınları
 
 [Kitap İnternet Sayfası](https://www.bidgeyayinlari.com.tr/yayinlar-2/)
+
+
