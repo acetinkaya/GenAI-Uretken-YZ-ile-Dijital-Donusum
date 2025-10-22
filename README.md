@@ -20,9 +20,9 @@
 
 Kitap Yayın Linkleri & Erişim Adresi:
 
-Kitap İsmi: YENİ NESİL YAPAY ZEKÂ YAKLAŞIMLARI: YAZILIM, KARİYER VE SİNİRSEL MİMARİLER ÜZERİNE DİJİTAL DÖNÜŞÜM: GELECEĞİN KARİYER ALANLARI
+Kitap İsmi: YENİ NESİL YAPAY ZEKÂ YAKLAŞIMLARI: YAZILIM, KARİYER VE SİNİRSEL MİMARİLER ÜZERİNE 
 
-Kitap İçindeki Bölüm No & İsmi: Bölüm 2. ÜRETKEN YAPAY ZEKA İLE
+Kitap İçindeki Bölüm No & İsmi: Bölüm 2. ÜRETKEN YAPAY ZEKA İLE DİJİTAL DÖNÜŞÜM: GELECEĞİN KARİYER ALANLARI
 
 ISBN No: 978-625-372-677-5   
 
