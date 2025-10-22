@@ -22,7 +22,7 @@ Kitap Yayın Linkleri & Erişim Adresi:
 
 Kitap İsmi: YENİ NESİL YAPAY ZEKÂ YAKLAŞIMLARI: YAZILIM, KARİYER VE SİNİRSEL MİMARİLER ÜZERİNE
 
-Kitap 
+Kitap İçindeki Bölüm:
 
 ISBN No: 978-625-372-677-5   
 
