@@ -34,3 +34,5 @@ Yayınevi: BİDGE Yayınları
 
 ![AlternatifMetin](https://github.com/acetinkaya/GenAI-Uretken-YZ-ile-Dijital-Donusum/blob/main/bolum.png)
 
+---
+
