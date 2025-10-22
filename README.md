@@ -26,6 +26,6 @@ ISBN No: 978-625-372-677-5
 
 Basım Yılı: 2025
 
-Yayınevi: 
+Yayınevi: BİDGE Yayınları
 
 [Kitap İnternet Sayfası](https://www.bidgeyayinlari.com.tr/yayinlar-2/)
