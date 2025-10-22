@@ -20,6 +20,6 @@
 
 Kitap Yayın Linkleri & Erişim Adresi:
 
-Book Title / Kitap İsmi: YENİ NESİL 
+Book Title / Kitap İsmi: YENİ NESİL YAPAY ZEKÂ 
 
 [Kitap İnternet Sayfası](https://www.bidgeyayinlari.com.tr/yayinlar-2/)
